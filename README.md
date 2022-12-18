@@ -1,2 +1,6 @@
 # Photo-slide
-Slide with JS
+## Usage
+
+```bresh
+This project is just a training on JS
+```
